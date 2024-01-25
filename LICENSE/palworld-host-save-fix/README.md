@@ -1,9 +1,4 @@
-# Palworld Host-2-Server
-> ## **Disclaimer:** The projects "palworld-host-save-fix" and "uesave.exe" are not my own; they are referenced from other projects. The LICENSE for each individual project can be found in the "LICENSE" folder.
-
-This is for [bahamut post](https://forum.gamer.com.tw/C.php?bsn=71458&snA=918&tnum=1)
-
-
+# Palworld Host Save Fix
 
 > ### :warning: This tool is experimental. Be careful of data loss and *always* make a backup.
 
