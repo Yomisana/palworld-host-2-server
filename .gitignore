@@ -1,0 +1,7 @@
+HXEBQHY7RYL88A82N0GTEXX8DOZJ9IQP/
+
+# 除了 Palworld_Server底下的 steamcmd.exe 不略過其他都略過
+
+!Palworld_Server/
+Palworld_Server/*
+!Palworld_Server/steamcmd.exe
