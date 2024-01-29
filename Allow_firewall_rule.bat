@@ -21,12 +21,6 @@ CD /D "%~dp0"
 
 
 echo 允許 8211/tcp 與 8211/udp 的輸入和輸出... (我很討厭Windows 的防火牆...by yomisana)
-:: 允許 8211/tcp 的輸入
-netsh advfirewall firewall add rule name="Palworld Allow Port 8211 TCP In(Yomisana)" dir=in action=allow protocol=TCP localport=8211
-
-:: 允許 8211/tcp 的輸出
-netsh advfirewall firewall add rule name="Palworld Port 8211 TCP Out(Yomisana)" dir=out action=allow protocol=TCP localport=8211
-
 :: 允許 8211/udp 的輸入
 netsh advfirewall firewall add rule name="Palworld Port 8211 UDP In(Yomisana)" dir=in action=allow protocol=UDP localport=8211
 
